@@ -1,7 +1,7 @@
-#Pumpkin Cheesecake with Marshmallow-Sour Cream Topping and Gingersnap Crust
+# Pumpkin Cheesecake with Marshmallow-Sour Cream Topping and Gingersnap Crust
 
-##Ingredients
-###For crust:
+## Ingredients
+### For crust:
 Nonstick vegetable oil spray
 2 cups gingersnap cookie crumbs (about 9 ounces)
 1 cup pecans (about 3 1/2 ounces)
@@ -9,7 +9,7 @@ Nonstick vegetable oil spray
 2 tablespoons chopped crystallized ginger
 1/4 cup (1/2 stick) unsalted butter, melted
 
-###For filling:
+### For filling:
 4 8-ounce packages cream cheese, room temperature
 2 cups sugar
 1 15-ounce can pure pumpkin
@@ -22,21 +22,21 @@ Nonstick vegetable oil spray
 1/4 teaspoon salt
 2 tablespoons vanilla extract
 
-###For topping:
+### For topping:
 2 cups mini marshmallows or large marshmallows cut into 1/2-inch cubes
 1/4 cup whole milk
 1 teaspoon vanilla extract
 1/8 teaspoon salt
 1 cup sour cream
 
-##Directions
-###Crust:
+## Directions
+### Crust:
 Preheat oven to 350°F. Spray 9-inch-diameter springform pan with 2 3/4-inch-high sides with nonstick spray. Grind cookie crumbs, pecans, brown sugar, and ginger in processor until nuts are finely ground. Add butter; using on/off turns, process to blend. Transfer mixture to prepared pan; press onto bottom and 2 inches up sides of pan. Bake crust until set and lightly browned, about 10 minutes. Cool completely.
 
-###Filling:
+### Filling:
 Preheat oven to 350°F. Using electric mixer, beat cream cheese and sugar in large bowl until light and fluffy, about 2 minutes. Beat in pumpkin. Add eggs 1 at a time, beating on low speed to incorporate each addition. Add flour, spices, and salt; beat just to blend. Beat in vanilla. Transfer filling to cooled crust. Bake until filling is just set in center and edges begin to crack (filling will move slightly when pan is gently shaken), about 1 hour 20 minutes. Cool 1 hour. Run knife around sides of pan to release crust. Chill cheesecake uncovered in pan overnight.
 
-###Topping:
+### Topping:
 Stir marshmallows and milk in medium saucepan over low heat until marshmallows are melted. Remove from heat and stir in vanilla and salt. Cool marshmallow mixture to room temperature, stirring occasionally.
 
 Add sour cream to marshmallow mixture; fold gently just to blend. Pour topping over cheesecake and spread evenly, leaving 1/2 inch uncovered around edges. Chill to set topping, at least 1 hour. DO AHEAD: Cheesecake can be made 1 day ahead. Keep chilled.

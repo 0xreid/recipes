@@ -1,6 +1,6 @@
-#Mexican Chocolate-Chip Cookies
+# Mexican Chocolate-Chip Cookies
 
-##Ingredients
+## Ingredients
 2 cups all-purpose flour
 ½ tablespoon kosher salt
 ¼ teaspoon baking powder
@@ -10,7 +10,7 @@
 ¾ cup semisweet chocolate, chopped
 ¾ cup Mexican chocolate, chopped
 
-##Directions
+## Directions
 Preheat the oven to 350°. In a medium bowl, whisk together the flour, salt and baking powder. Set aside. In a standing mixer, mix the butter and sugar together until well incorporated. Add the egg and mix until incorporated, scraping down the mixture from the sides of the bowl.
 
 Add the flour mixture and blend until a dough forms. Gently mix in the semisweet and Mexican chocolates.

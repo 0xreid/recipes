@@ -1,6 +1,6 @@
-#Vegan Cinnamon Rolls w/ Cream Cheese Frosting
+# Vegan Cinnamon Rolls w/ Cream Cheese Frosting
 
-##Ingredients
+## Ingredients
 For cinnamon rolls:
 2¼ tsp active dry yeast + ½ cup warm (NOT hot) water. Stir together and set aside.
 In a large bowl, add: ½ cup hot, but not boiling, soymilk (plain or vanilla)

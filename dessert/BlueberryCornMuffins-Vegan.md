@@ -1,6 +1,6 @@
-#Vegan Sunny Blueberry Corn Muffins
+# Vegan Sunny Blueberry Corn Muffins
 
-##Ingredients
+## Ingredients
 1 cup flour
 1 cup cornmeal
 1 tablespoon baking powder
@@ -12,7 +12,7 @@
 1 teaspoon vanilla
 1/4 teaspoon finely grated lemon zest
 
-##Directions
+## Directions
 Preheat oven to 400.
 
 In a large bowl, sift together dry ingredients (flour through sugar). In a seperate bowl, wisk together wet ingredients (oil through vanilla). Fold wet into dry, halfway through mixing add lemon zest and distribute well.

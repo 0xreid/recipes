@@ -1,12 +1,12 @@
-#Vegan Pumpkin Pie
+# Vegan Pumpkin Pie
 
 The two ways to make this pie:
 
 1) Pure Pumpkin Pie
 2) Pumpkin Cheesecake Pie
 
-##Ingredients
-###Pure Pumpkin Pie
+## Ingredients
+### Pure Pumpkin Pie
 8 ounces tofu cream cheese
 30 ounces (about 3 3/4 cups) canned Pumpkin Pie Mix (or sub ingredients shown above)
 1 1/4 cups soaked raw cashews (soaked overnight in salted water)
@@ -16,7 +16,7 @@ The two ways to make this pie:
 2 graham cracker pie crusts (or your own recipe)
 handful of cashews for garnish
 
-###Pumpkin Cheesecake Pie
+### Pumpkin Cheesecake Pie
 
 16 ounces tofu cream cheese
 1 can - 15 ounces canned Pumpkin Pie Mix (or sub ingredients)
@@ -27,7 +27,7 @@ handful of cashews for garnish
 2 graham cracker pie crusts (or your own recipe)
 handful of cashews for garnish
 
-##Directions
+## Directions
 Soak your raw cashews in salted water overnight or at least 6 hours. They should break apart easily and be tender to bite when properly soaked.
 
 Preheat oven to 375 degrees.
