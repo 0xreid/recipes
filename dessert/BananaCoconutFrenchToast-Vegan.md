@@ -1,16 +1,16 @@
 # Vegan Banana and Coconut French Toast
 
 ## Ingredients
-2 ripe bananas
-1 cup coconut milk
-1 tablespoon vanilla
-1 teaspoon cardamom
-1/8 teaspoon nutmeg
-1/8 teaspoon cinnamon
-1 tablespoon flour
-1/2 teaspoon sea salt
-1 loaf bread
-Drizzle coconut oil
+- 2 ripe bananas
+- 1 cup coconut milk
+- 1 tablespoon vanilla
+- 1 teaspoon cardamom
+- 1/8 teaspoon nutmeg
+- 1/8 teaspoon cinnamon
+- 1 tablespoon flour
+- 1/2 teaspoon sea salt
+- 1 loaf bread
+- Drizzle of coconut oil
 
 ## Directions
 Place all ingredients, well except for the bread, into a food processor or blender. Blend well. 

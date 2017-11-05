@@ -1,15 +1,15 @@
 # Happy Vegan Chocolate Chip Cookies
 
 ## Ingredients
-2 cups unbleached flour
-2 teaspoons baking powder
-1/2 teaspoon salt
-cinnamon, to taste, optional
-handful vegan chocolate or carob chips
-1 cup raw sugar (turbinado; sucanat works too, but sucks up a lot of the moisture)
-1/2 cup canola or vegetable oil
-1 teaspoon vanilla
-1/4 cup water
+- 2 cups unbleached flour
+- 2 teaspoons baking powder
+- 1/2 teaspoon salt
+- cinnamon, to taste, optional
+- handful vegan chocolate or carob chips
+- 1 cup raw sugar (turbinado; sucanat works too, but sucks up a lot of the moisture)
+- 1/2 cup canola or vegetable oil
+- 1 teaspoon vanilla
+- 1/4 cup water
 
 ## Directions
 Very important-make sure all ingredients are at room temperature. It will work if they're not at room temp but it works much better if they are. Also while your oven is pre-heating put the cookie sheets you are going to use on top of the oven so they get preheated as well. Preheat oven to 350 degrees F.

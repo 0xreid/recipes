@@ -1,11 +1,11 @@
 # Vegan Fluffy Buttercream Frosting
 
 ## Ingredients
-1/2 cup nonhydrogenated shortening
-1/2 cup nonhydrogenated margarine
-3 1/2 cups powdered sugar, sifted if clumpy
-1 1/2 teaspoons vanilla extract
-1/4 cup plain soy milk or soy creamer
+- 1/2 cup nonhydrogenated shortening
+- 1/2 cup nonhydrogenated margarine
+- 3 1/2 cups powdered sugar, sifted if clumpy
+- 1 1/2 teaspoons vanilla extract
+- 1/4 cup plain soy milk or soy creamer
 
 ## Directions
 Beat the shortening and margarine together until well combined and fluffy. Add the sugar and beat for about 3 more minutes.

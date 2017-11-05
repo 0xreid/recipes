@@ -1,16 +1,16 @@
 # Vegan Sunny Blueberry Corn Muffins
 
 ## Ingredients
-1 cup flour
-1 cup cornmeal
-1 tablespoon baking powder
-1/2 teaspoon salt
-1/2 cup plus 2 tablespoons sugar
-1/2 cup corn or vegetable oil
-3/4 cup soymilk
-2 tablespoons soy yogurt
-1 teaspoon vanilla
-1/4 teaspoon finely grated lemon zest
+- 1 cup flour
+- 1 cup cornmeal
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 1/2 cup plus 2 tablespoons sugar
+- 1/2 cup corn or vegetable oil
+- 3/4 cup soymilk
+- 2 tablespoons soy yogurt
+- 1 teaspoon vanilla
+- 1/4 teaspoon finely grated lemon zest
 
 ## Directions
 Preheat oven to 400.
