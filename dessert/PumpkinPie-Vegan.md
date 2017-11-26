@@ -7,25 +7,25 @@ The two ways to make this pie:
 
 ## Ingredients
 ### Pure Pumpkin Pie
-8 ounces tofu cream cheese
-30 ounces (about 3 3/4 cups) canned Pumpkin Pie Mix (or sub ingredients shown above)
-1 1/4 cups soaked raw cashews (soaked overnight in salted water)
-3 Tbsp lemon or orange juice (optional - adds a slight zippy undertone)
-2 tsp cinnamon (optional)
+* 8 ounces tofu cream cheese
+* 30 ounces (about 3 3/4 cups) canned Pumpkin Pie Mix (or sub ingredients shown above)
+* 1 1/4 cups soaked raw cashews (soaked overnight in salted water)
+* 3 Tbsp lemon or orange juice (optional - adds a slight zippy undertone)
+* 2 tsp cinnamon (optional)
 
-2 graham cracker pie crusts (or your own recipe)
-handful of cashews for garnish
+* 2 graham cracker pie crusts (or your own recipe)
+* handful of cashews for garnish
 
 ### Pumpkin Cheesecake Pie
 
-16 ounces tofu cream cheese
-1 can - 15 ounces canned Pumpkin Pie Mix (or sub ingredients)
-1 3/4 cups soaked raw cashews (soaked overnight in salted water)
-3 Tbsp lemon juice
-2 tsp cinnamon (optional)
+* 16 ounces tofu cream cheese
+* 1 can - 15 ounces canned Pumpkin Pie Mix (or sub ingredients)
+* 1 3/4 cups soaked raw cashews (soaked overnight in salted water)
+* 3 Tbsp lemon juice
+* 2 tsp cinnamon (optional)
 
-2 graham cracker pie crusts (or your own recipe)
-handful of cashews for garnish
+* 2 graham cracker pie crusts (or your own recipe)
+* handful of cashews for garnish
 
 ## Directions
 Soak your raw cashews in salted water overnight or at least 6 hours. They should break apart easily and be tender to bite when properly soaked.

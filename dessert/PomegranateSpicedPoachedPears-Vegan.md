@@ -1,16 +1,16 @@
 # Pomegranate Spiced Poached Pears
 
 ## Ingredients
-2 firm pears, Anjou or Bosc, peeled, halved, cored
-2 cups pomegranate juice
-2 cups apple cider
-One 3" cinnamon stick
-peel from one clementine
-2 whole cloves
-2 star anise
-3 black cardamon pods
-One 1" piece fresh ginger, peeled, cut into thin slivers
-Orange Cashew Cream for serving, if desired
+* 2 firm pears, Anjou or Bosc, peeled, halved, cored
+* 2 cups pomegranate juice
+* 2 cups apple cider
+* One 3" cinnamon stick
+* peel from one clementine
+* 2 whole cloves
+* 2 star anise
+* 3 black cardamon pods
+* One 1" piece fresh ginger, peeled, cut into thin slivers
+* Orange Cashew Cream for serving, if desired
 
 ## Directions
 Place pomegranate juice, apple cider, cinnamon stick, clementine peel, cloves, star anise, cardamon pods and ginger in rice cooker. Place pear halves in poaching liquid.

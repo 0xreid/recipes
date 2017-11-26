@@ -2,32 +2,32 @@
 
 ## Ingredients
 ### For crust:
-Nonstick vegetable oil spray
-2 cups gingersnap cookie crumbs (about 9 ounces)
-1 cup pecans (about 3 1/2 ounces)
-1/4 cup (packed) golden brown sugar
-2 tablespoons chopped crystallized ginger
-1/4 cup (1/2 stick) unsalted butter, melted
+* Nonstick vegetable oil spray
+* 2 cups gingersnap cookie crumbs (about 9 ounces)
+* 1 cup pecans (about 3 1/2 ounces)
+* 1/4 cup (packed) golden brown sugar
+* 2 tablespoons chopped crystallized ginger
+* 1/4 cup (1/2 stick) unsalted butter, melted
 
 ### For filling:
-4 8-ounce packages cream cheese, room temperature
-2 cups sugar
-1 15-ounce can pure pumpkin
-5 large eggs
-3 tablespoons all purpose flour
-1 teaspoon ground cinnamon
-1/2 teaspoon ground ginger
-1/4 teaspoon freshly grated nutmeg
-1/4 teaspoon ground allspice
-1/4 teaspoon salt
-2 tablespoons vanilla extract
+* 4 8-ounce packages cream cheese, room temperature
+* 2 cups sugar
+* 1 15-ounce can pure pumpkin
+* 5 large eggs
+* 3 tablespoons all purpose flour
+* 1 teaspoon ground cinnamon
+* 1/2 teaspoon ground ginger
+* 1/4 teaspoon freshly grated nutmeg
+* 1/4 teaspoon ground allspice
+* 1/4 teaspoon salt
+* 2 tablespoons vanilla extract
 
 ### For topping:
-2 cups mini marshmallows or large marshmallows cut into 1/2-inch cubes
-1/4 cup whole milk
-1 teaspoon vanilla extract
-1/8 teaspoon salt
-1 cup sour cream
+* 2 cups mini marshmallows or large marshmallows cut into 1/2-inch cubes
+* 1/4 cup whole milk
+* 1 teaspoon vanilla extract
+* 1/8 teaspoon salt
+* 1 cup sour cream
 
 ## Directions
 ### Crust:

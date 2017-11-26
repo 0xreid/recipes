@@ -1,21 +1,21 @@
 # Gramercy Tavern Gingerbread
 
 ## Ingredients
-1 cup oatmeal stout or Guinness Stout
-1 cup dark molasses (not blackstrap)
-1/2 teaspoon baking soda
-2 cups all-purpose flour
-1 1/2 teaspoons baking powder
-2 tablespoons ground ginger
-1 teaspoon ground cinnamon
-1/4 teaspoon ground cloves
-1/4 teaspoon freshly grated nutmeg
-Pinch of ground cardamom
-3 large eggs
-1 cup packed dark brown sugar
-1 cup granulated sugar
-3/4 cup vegetable oil
-Confectioners sugar for dusting
+* 1 cup oatmeal stout or Guinness Stout
+* 1 cup dark molasses (not blackstrap)
+* 1/2 teaspoon baking soda
+* 2 cups all-purpose flour
+* 1 1/2 teaspoons baking powder
+* 2 tablespoons ground ginger
+* 1 teaspoon ground cinnamon
+* 1/4 teaspoon ground cloves
+* 1/4 teaspoon freshly grated nutmeg
+* Pinch of ground cardamom
+* 3 large eggs
+* 1 cup packed dark brown sugar
+* 1 cup granulated sugar
+* 3/4 cup vegetable oil
+* Confectioners sugar for dusting
 
 ## Directions
 Preheat oven to 350°F. Generously butter bundt pan and dust with flour, knocking out excess.

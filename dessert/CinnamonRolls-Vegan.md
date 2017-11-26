@@ -1,22 +1,24 @@
 # Vegan Cinnamon Rolls w/ Cream Cheese Frosting
 
 ## Ingredients
-For cinnamon rolls:
-2¼ tsp active dry yeast + ½ cup warm (NOT hot) water. Stir together and set aside.
-In a large bowl, add: ½ cup hot, but not boiling, soymilk (plain or vanilla)
-¼ cup sugar
-½ tsp salt
-⅓ cup transfat-free vegetable shortening
-1½ tsp EnerG egg replacer + 2 tbsp warm water (use corn starch with the same amount of water as a substitute)
-2 cups all-purpose flour
 
-For cream cheese glaze:
-½ cup vegan cream cheese, like Tofutti
-⅓- 1/2 cup confectioners' (powdered) sugar
-1 tsp vanilla extract
+### Cinnamon Rolls
+* 2 1/4 tsp active dry yeast + 1/2 cup warm (NOT hot) water. Stir together and set aside.
+* 1/2 cup hot, but not boiling, soymilk (plain or vanilla)
+* 1/4 cup sugar
+* 1/2 tsp salt
+* 1/3 cup transfat-free vegetable shortening
+* 1 1/2 tsp EnerG egg replacer + 2 tbsp warm water (use corn starch with the same amount of water as a substitute)
+* 2 cups all-purpose flour
+
+### Cream Cheese Glaze
+* 1/2 cup vegan cream cheese, like Tofutti
+* 1/3 - 1/2 cup confectioners' (powdered) sugar
+* 1 tsp vanilla extract
 
 ##Directions
-Make the buns:
+
+### Cinnamon Rolls
 Mix at low speed if using a stand mixer, or by hand, for about 2-3 minutes until the ingredients are well mixed.
 
 Add to this: The yeast mixture, and Another 1 to 1½ cups of all-purpose flour, a little at a time, to form a smooth dough.
@@ -43,7 +45,7 @@ Preheat the oven to 350 degrees (if your rolls are rising in the oven, be sure y
 
 Bake the rolls for 30 minutes until nicely browned. Remove and place on a rack to cool slightly when you can go ahead and frost them.
 
-Make the glaze:
+### Cream Cheese Glaze
 Beat all ingredients together, adding a little sugar at a time, until you have a smooth glaze.
 
 Drizzle or spread the glaze over the still-warm rolls and serve. Enjoy!
