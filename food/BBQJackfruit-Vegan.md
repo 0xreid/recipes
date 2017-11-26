@@ -1,22 +1,22 @@
-#BBQ Jackfruit
+# BBQ Jackfruit
 
-##Ingredients
-3-20 oz. cans jackfruit in water or brine
-1 tsp. olive oil
-½ onion, chopped
-3 cloves garlic, minced
-1 tsp. sugar
-1 tsp. brown sugar
-1 tsp. ground cumin
-¼ tsp. cayenne pepper
-1 tsp. chili powder
-1 tsp. paprika
-1½ tsp. liquid smoke
-1 cup vegetable broth
-½ cup vegan BBQ sauce (your favorite store bought or homemade kind)
-Buns for pulled pork sandwiches or corn tortillas for gluten-free pulled jackfruit tacos
+## Ingredients
+* 3-20 oz. cans jackfruit in water or brine
+* 1 tsp. olive oil
+* 1/2 onion, chopped
+* 3 cloves garlic, minced
+* 1 tsp. sugar
+* 1 tsp. brown sugar
+* 1 tsp. ground cumin
+* 1/4 tsp. cayenne pepper
+* 1 tsp. chili powder
+* 1 tsp. paprika
+* 1 1/2 tsp. liquid smoke
+* 1 cup vegetable broth
+* 1/2 cup vegan BBQ sauce (your favorite store bought or homemade kind)
+* Buns for pulled pork sandwiches or corn tortillas for gluten-free pulled jackfruit tacos
 
-##Directions
+## Directions
 Preheat the over to 400 degrees.
 
 Drain and rinse the jackfruit, remove the core and cut each piece in half. As you do this, remove the seeds. 

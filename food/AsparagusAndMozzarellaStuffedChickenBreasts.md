@@ -1,13 +1,13 @@
-#Asparagus and Mozzarella Stuffed Chicken Breasts
+# Asparagus and Mozzarella Stuffed Chicken Breasts
 
-##Ingredients
-2 large skinless, boneless chicken breast halves
-salt and black pepper to taste
-8 asparagus spears, trimmed - divided
-1/2 cup shredded mozzarella cheese, divided
-1/4 cup Italian seasoned bread crumbs
+## Ingredients
+* 2 large skinless, boneless chicken breast halves
+* salt and black pepper to taste
+* 8 asparagus spears, trimmed - divided
+* 1/2 cup shredded mozzarella cheese, divided
+* 1/4 cup Italian seasoned bread crumbs
 
-##Directions
+## Directions
 Preheat an oven to 375 degrees F (190 degrees C). Grease an 8x8-inch baking dish.
 
 Place each chicken breast between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound the chicken with the smooth side of a meat mallet to an even thickness of about 1/4 inch. Sprinkle each side with salt and pepper.
