@@ -1,19 +1,19 @@
-#Carrot, Avocado, and Orange Salad
+# Carrot, Avocado, and Orange Salad
 
-##Ingredients
-4 medium garlic cloves, smashed and peeled
-Maldon or another flaky sea salt
-1 1/2 teaspoons cumin seeds, toasted and ground
-1 1/2 teaspoons coriander seeds, toasted and ground
-1 to 1 1/2 teaspoons crumbled dried pequin chilies or red pepper flakes
-1/4 cup plus 2 tablespoons extra virgin olive oil
-30 or so similarly sized (each about the size of your pointer finger) young carrots, not peeled, 1/2 inch of the green tops left on
-3 tennis-ball-sized oranges
-3 ripe Hass avocados, chilled
-2 tablespoons freshly squeezed lemon juice
-A handful of small, delicate cilantro sprigs
+## Ingredients
+* 4 medium garlic cloves, smashed and peeled
+* Maldon or another flaky sea salt
+* 1 1/2 teaspoons cumin seeds, toasted and ground
+* 1 1/2 teaspoons coriander seeds, toasted and ground
+* 1 to 1 1/2 teaspoons crumbled dried pequin chilies or red pepper flakes
+* 1/4 cup plus 2 tablespoons extra virgin olive oil
+* 30 or so similarly sized (each about the size of your pointer finger) young carrots, not peeled, 1/2 inch of the green tops left on
+* 3 tennis-ball-sized oranges
+* 3 ripe Hass avocados, chilled
+* 2 tablespoons freshly squeezed lemon juice
+* A handful of small, delicate cilantro sprigs
 
-##Directions
+## Directions
 Preheat the oven to 400°F.
 
 Pound the garlic with a healthy pinch of salt in a mortar until you have a wet, fairly smooth paste. (You can also do this on a cutting board, chopping and mashing and chopping and mashing until you're satisfied.) Put the paste in a large mixing bowl. Add the cumin, coriander, chilies, and 1/4 cup of the olive oil and stir well, then add the carrots and toss well so they're coated with the oil and spices. Sprinkle on 3 healthy pinches of salt, crushing the grains with your fingers as you add them, and toss again.

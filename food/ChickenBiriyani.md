@@ -1,35 +1,35 @@
-#Rice Cooker Chicken Biriyani With Saffron Cream
+# Rice Cooker Chicken Biriyani With Saffron Cream
 
-##Ingredients
-1 pound boneless, skinless chicken thighs
-1 cup plain yogurt, preferably whole milk
-1 1/2 teaspoons coriander powder
-1 teaspoon turmeric powder
-1 teaspoon mild chili powder
-1/2 teaspoon cumin powder
-1 onion cut into chunks
-1 2-inch chunk fresh ginger, peeled
-3 garlic cloves, peeled
-1 fresh green chili pepper such as jalapeño or serrano, stemmed
-3 tablespoons canola oil or ghee (clarified butter)
-1 1/2 cups basmati rice, rinsed
-6 cloves
-6 cardamom pods
-1 cinnamon stick
-3 cups chicken broth (use low-sodium if canned) mixed with 1/4 teaspoon garam masala
-1 teaspoon salt
-Pinch saffron threads mixed with 2 tablespoons heavy cream
-3 tablespoons chopped cilantro, more for garnish
-3 tablespoons chopped mint
-1 lime
+## Ingredients
+* 1 pound boneless, skinless chicken thighs
+* 1 cup plain yogurt, preferably whole milk
+* 1 1/2 teaspoons coriander powder
+* 1 teaspoon turmeric powder
+* 1 teaspoon mild chili powder
+* 1/2 teaspoon cumin powder
+* 1 onion cut into chunks
+* 1 2-inch chunk fresh ginger, peeled
+* 3 garlic cloves, peeled
+* 1 fresh green chili pepper such as jalapeño or serrano, stemmed
+* 3 tablespoons canola oil or ghee (clarified butter)
+* 1 1/2 cups basmati rice, rinsed
+* 6 cloves
+* 6 cardamom pods
+* 1 cinnamon stick
+* 3 cups chicken broth (use low-sodium if canned) mixed with 1/4 teaspoon garam masala
+* 1 teaspoon salt
+* Pinch saffron threads mixed with 2 tablespoons heavy cream
+* 3 tablespoons chopped cilantro, more for garnish
+* 3 tablespoons chopped mint
+* 1 lime
 
 FOR OPTIONAL GARNISHES:
-Oil for frying
-1 onion, thinly sliced
-Big handful cashews
-Big handful raisins
+* Oil for frying
+* 1 onion, thinly sliced
+* Big handful cashews
+* Big handful raisins
 
-##Directions
+## Directions
 1. Cut chicken into bite-size chunks: 6 to 8 pieces from each thigh. In a bowl, mix yogurt and powdered spices. Add chicken, mix well to coat, and set aside.
 
 Continue reading the main story

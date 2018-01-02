@@ -1,16 +1,16 @@
-#Carrot Lox
+# Carrot Lox
 
-##Ingredients
-1 pound organic carrots (about 5 to 6 large)
-2 teaspoons smoked sea salt
-2 teaspoons brown sugar
-1 teaspoon cracked black pepper
-1 teaspoon liquid smoke
-2 large eggs, beaten
-Zest of 1 lemon
-1 tablespoon olive oil
+## Ingredients
+* 1 pound organic carrots (about 5 to 6 large)
+* 2 teaspoons smoked sea salt
+* 2 teaspoons brown sugar
+* 1 teaspoon cracked black pepper
+* 1 teaspoon liquid smoke
+* 2 large eggs, beaten
+* Zest of 1 lemon
+* 1 tablespoon olive oil
 
-##Directions
+## Directions
 Peel and very thinly slice—they should be thin but they shouldn't be paper-thin or translucent—the carrots longways on a mandolin. In a small bowl combine the smoked salt, brown sugar, black pepper, and liquid smoke.
 
 Layer the carrot slices in a large bowl and add spice mixture to each layer until all of the carrot slices and spice mixture are used up. Set this aside for at least 30 minutes. The salt will soften the carrots and leach out much of their liquid.

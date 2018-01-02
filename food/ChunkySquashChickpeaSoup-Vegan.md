@@ -1,28 +1,28 @@
-#Chunky Squash and Chickpea Soup
+# Chunky Squash and Chickpea Soup
 
-##Ingredients
-1 butternut squash, peeled and diced, reserving the seeds
-1 tablespoon cumin seeds
-1 dried red chilli, crumbled
-olive oil
-2 sticks celery, trimmed and finely chopped
-3 cloves garlic, peeled and finely chopped
-a few sprigs of fresh flat-leaf parsley, leaves picked and chopped, stalks finely chopped
-2 small red onions, peeled and finely chopped
-1.5 litres organic vegetable stock
-2 x 400 g tinned chickpeas, drained
-50 g almond flakes
-½ tablespoon fennel seeds
-½ tablespoon sesame seeds
-½ tablespoon poppy seeds
-sea salt
-freshly ground black pepper
-zest of 2 lemons
-a few sprigs of fresh mint, leaves picked and chopped
-harissa paste
-extra virgin olive oil
+## Ingredients
+* 1 butternut squash, peeled and diced, reserving the seeds
+* 1 tablespoon cumin seeds
+* 1 dried red chilli, crumbled
+* olive oil
+* 2 sticks celery, trimmed and finely chopped
+* 3 cloves garlic, peeled and finely chopped
+* a few sprigs of fresh flat-leaf parsley, leaves picked and chopped, stalks finely chopped
+* 2 small red onions, peeled and finely chopped
+* 1.5 litres organic vegetable stock
+* 2 x 400 g tinned chickpeas, drained
+* 50 g almond flakes
+* 1/2 tablespoon fennel seeds
+* 1/2 tablespoon sesame seeds
+* 1/2 tablespoon poppy seeds
+* sea salt
+* freshly ground black pepper
+* zest of 2 lemons
+* a few sprigs of fresh mint, leaves picked and chopped
+* harissa paste
+* extra virgin olive oil
 
-##Directions
+## Directions
 Buttered squash seeds taste great toasted. To prepare your squash, peel it with a potato peeler, chop in half and then scoop out the seeds.
 
 Preheat your oven to 200°C/400°F/gas 6. Place the squash, cumin and crumbled chilli on to a baking tray. Drizzle with olive oil, mix together and place in the preheated oven. Roast for 45 minutes until the squash is cooked through.
