@@ -1,26 +1,26 @@
-#Locro de papa - Ecuadorian potato and cheese soup
+# Locro de papa - Ecuadorian potato and cheese soup
 
-##Ingredients
-10 medium sized potatoes, peeled and chopped into small and large pieces
-2 tablespoons oil
-1 white onion, diced
-2 garlic cloves, minced
-2 tsp cumin
-1 tsp achiote powder
-7 cups of water
-1 cup of milk or more
-1 cup grated or crumbled cheese (quesillo, queso fresco, mozzarella or monterey jack)
-1 bunch of cilantro, leaves only, minced
-Salt to taste
+## Ingredients
+* 10 medium sized potatoes, peeled and chopped into small and large pieces
+* 2 tablespoons oil
+* 1 white onion, diced
+* 2 garlic cloves, minced
+* 2 tsp cumin
+* 1 tsp achiote powder
+* 7 cups of water
+* 1 cup of milk or more
+* 1 cup grated or crumbled cheese (quesillo, queso fresco, mozzarella or monterey jack)
+* 1 bunch of cilantro, leaves only, minced
+* Salt to taste
 
-###To serve
-1 cup of queso fresco, feta cheese, or grated mozzarella
-Maiz tostado or cancha corn nuts
-Chopped cilantro and green onions
-Avocados, sliced or diced
-Ecuadorian aji hot sauce
+### To serve
+* 1 cup of queso fresco, feta cheese, or grated mozzarella
+* Maiz tostado or cancha corn nuts
+* Chopped cilantro and green onions
+* Avocados, sliced or diced
+* Ecuadorian aji hot sauce
 
-##Directions
+## Directions
 Prepare a refrito or base for the soup by heating the canola oil over medium heat in a large soup pot; add the diced onions, minced garlic cloves, cumin, and achiote powder. Cook, stirring frequently, until the onions are tender, about 5 minutes.
 
 Add the potatoes to the pot and mix until they are coated with the refrito. Continue cooking for about 5 minutes, stirring a every couple of minutes.
@@ -34,4 +34,3 @@ Add salt to taste
 Add the grated cheese and cilantro, mix well, and remove from the heat.
 
 Serve warm with the avocados, scallions, queso or feta cheese and aji hot sauce.
-

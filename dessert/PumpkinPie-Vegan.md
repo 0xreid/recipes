@@ -2,8 +2,8 @@
 
 The two ways to make this pie:
 
-1) Pure Pumpkin Pie
-2) Pumpkin Cheesecake Pie
+* Pure Pumpkin Pie
+* Pumpkin Cheesecake Pie
 
 ## Ingredients
 ### Pure Pumpkin Pie
@@ -38,9 +38,8 @@ In a food processor, add the cream cheese, pumpkin pie mix (or substitute ingred
 
 Blend on high until a creamy mixture is reached. Pulse in additional cinnamon (other spices may be added as well).
 
-Pour your puree into your two pie crusts. 
+Pour your puree into your two pie crusts.
 
 Swirl and smooth top with fork. Dot on cashews around the edge and center as you'd like.
 
 Bake at 375 for 30 minutes. Cool. Place in fridge to firm before serving.
-

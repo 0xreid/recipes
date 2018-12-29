@@ -1,27 +1,28 @@
-#Vegan Tofu and Mushroom Stroganoff
+# Vegan Tofu and Mushroom Stroganoff
 
 Serves 4
 
-##Ingredients
-225g fusilli
-¾ cup cashews, soaked for at least 2 hours
-1½ cups vegetable or mushroom broth
-For the tofu
-396g extra–firm tofu, sliced into thin strips
-1 tbsp olive oil
-Pinch of salt
-For the sauce
-1 tbsp olive oil
-1 medium yellow onion, quartered and thinly sliced
-½ tsp salt, plus a pinch
-4 cloves garlic, minced
-225g cremini mushrooms, thinly sliced
-1 tsp dried thyme
-½ cup dry white wine
-2 tbsp tomato paste
-Chopped fresh flatleaf parsley, for garnish (optional)
+## Ingredients
+* 225g fusilli
+* 3/4 cup cashews, soaked for at least 2 hours
+* 1 1/2 cups vegetable or mushroom broth
+* For the tofu
+* 396g extra–firm tofu, sliced into thin strips
+* 1 tbsp olive oil
+* Pinch of salt
 
-##Directions
+For the sauce:
+* 1 tbsp olive oil
+* 1 medium yellow onion, quartered and thinly sliced
+* 1/2 tsp salt, plus a pinch
+* 4 cloves garlic, minced
+* 225g cremini mushrooms, thinly sliced
+* 1 tsp dried thyme
+* 1/2 cup dry white wine
+* 2 tbsp tomato paste
+* Chopped fresh flatleaf parsley, for garnish (optional)
+
+## Directions
 To get the strips of tofu for this recipe, slice tofu in half through the equator, like a clam. Then slice each half into 0.5cm-thick strips. You should end up with slices that are about 8cm long by 2.5cm wide.
 
 Bring a large pot of salted water to a boil for the pasta. When it's boiling, cook the pasta according to the package directions. Drain and set aside.
@@ -34,4 +35,3 @@ Now on to the sauce. In the same pan in which you cooked the tofu, still on a me
 Now add the mushrooms and thyme and cook until the mushrooms are lightly browned, about 5 more minutes. Add the wine, tomato paste, remaining ½ tsp salt, and pepper, stir, and turn the heat up to high. Let the wine reduce by about half. This should take 5 minutes or so. Turn the heat back down to medium.
 
 Pour in the cashew mixture. Stir until well combined and let it thicken for about 5 minutes. Taste for seasoning. Add the tofu and carefully toss to coat, so as not to break the tofu. Serve over the pasta, and garnish with fresh parsley, if you like.
-

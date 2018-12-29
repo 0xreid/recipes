@@ -12,5 +12,10 @@
 * 1 cup cognac or brandy
 
 ## Directions
-In a saucepan, bring 1/2 cup water and the sugar to a boil until sugar dissolves. Remove from heat and set aside. In a large saucepan, combine Old Vine Zinfandel, port and spices. Bring mixture to a slight simmer, reduce heat to low and cook for about 10 minutes. Strain mixture, discarding the spice debris. Pour two tablespoons cognac and one tablespoon reserved syrup into a punch glass. Add 1/4 cup mulled wine and stir to blend.
+In a saucepan, bring 1/2 cup water and the sugar to a boil until sugar dissolves. Remove from heat and set aside. In a large saucepan, combine Old Vine Zinfandel, port and spices.
 
+Bring mixture to a slight simmer, reduce heat to low and cook for about 10 minutes.
+
+Strain mixture, discarding the spice debris. Pour two tablespoons cognac and one tablespoon reserved syrup into a punch glass.
+
+Add 1/4 cup mulled wine and stir to blend.

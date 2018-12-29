@@ -1,4 +1,4 @@
-#Kokoda - Fijian Raw Fish
+# Kokoda - Fijian Raw Fish
 
 From Me'a Kai: The Food and Flavours of the South Pacific by Robert Oliver with Tracy Berno and Shiri Ram.
 
@@ -10,22 +10,21 @@ In Fiji, it was traditionally made with a marinade of lime juice, chillies, onio
 
 (Serves 8 generously)
 
-##Ingredients
-1 kg very fresh walu, mahimahi or snapper fillet, skinned
-juice of 10 limes and 3 lemons
-2 medium-sized onions, finely diced
-3 red chillies, minced
-2 cups finely chopped tomato
-several spring onions, finely sliced
-few stems of coriander leaves (substitute: parsley)
-4 cups coconut milk
-½ tablespoon sea salt
-lime wedges to serve
+## Ingredients
+* 1 kg very fresh walu, mahimahi or snapper fillet, skinned
+* juice of 10 limes and 3 lemons
+* 2 medium-sized onions, finely diced
+* 3 red chillies, minced
+* 2 cups finely chopped tomato
+* several spring onions, finely sliced
+* few stems of coriander leaves (substitute: parsley)
+* 4 cups coconut milk
+* 1/2 tablespoon sea salt
+* lime wedges to serve
 
-##Directions
+## Directions
 Cut the fish into 1 cm dice, discarding any bloody tissue.
 
 In a bowl, mix the fish and the citrus juices and chill to marinate for two to three hours, or until the fish is opaque.
 
 Drain the fish and add the onion, chilli, tomato, spring onion, coriander, coconut milk and salt.
-

@@ -1,20 +1,21 @@
-#Russian Vegetable Pie
+# Russian Vegetable Pie
 
-##Ingredients
-1/2 head of cabbage
-1 medium onion
-Tarragon to taste
-1 package of cream cheese
-3 sticks Butter
-2 Cups of white mushrooms (or wild)
-6 eggs
-3 cups flour
-Ice water
+## Ingredients
+* 1/2 head of cabbage
+* 1 medium onion
+* Tarragon to taste
+* 1 package of cream cheese
+* 3 sticks Butter
+* 2 Cups of white mushrooms (or wild)
+* 6 eggs
+* 3 cups flour
+* Ice water
 
-##Directions
+## Directions
 Preheat oven to 425
 
-Pie crust,
+Pie crust:
+
 Mix 1 1/2 cups of flower with 1 stick of butter, either grate butter or cube into small bits. Make sure butter is cold & straight from the fridge. Pinch the bits of butter into the flour until there are no butter chunks and the mixture is flakey in texture.
 Then add a tablespoon at a time of ice water and mix thoroughly. Roll flat once mixed OR you can use milk instead of water and knead flat (works great if you don't have a rolling pin!).
 
@@ -41,4 +42,3 @@ Optionally you can beat an egg and brush the egg over the top to golden brown th
 Put the pie in the oven for 45 mins - 1hr 30 mins until crust is done.
 
 Salt and pepper to taste and enjoy.
-

@@ -1,7 +1,5 @@
 # Strawberry Habanero Margaritas
 
-Serves 2
-
 ## Ingredients
 * 1 pint fresh strawberries, hulled
 * 2 fresh habanero peppers, seeded
@@ -9,6 +7,4 @@ Serves 2
 * 3 ounces tequila (Cazadores reposado)
 
 ## Directions
-In blender, purée strawberries and peppers until smooth. Add coconut water and tequila, pulse until combined. Pour into two glasses with one ice cube each and garnish with a whole strawberry.
-
-
+In blender, purée strawberries and peppers until smooth. Add coconut water and tequila, pulse until combined. Pour into two glasses with one ice cube each and garnish with a whole strawberry. Serves 2.
