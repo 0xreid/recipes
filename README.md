@@ -1,9 +1,15 @@
 # Recipes I Dig
-Collection of recipes for food and drinks that I've put together over the years. Always looking for more contributions.
+Collection of recipes I've fallen in love with over the years.
 
-Current categories are:
-- food
-- dessert
-- drinks
+All recipes are vegetarian or vegan.
 
-I try to indicate in the file names if a recipe is vegetarian or vegan, and try to also indiciate if a drink is alcoholic or not.
+## Common Allergens
+The following information is called out in each recipe:
+
+* dairy
+* eggs
+* nuts
+* wheat gluten
+* added sugar
+
+In many cases, allergen-free ingredients can be substituted (such as butter vs vegan butter, wheat flour vs. gluten free flour, etc.).
