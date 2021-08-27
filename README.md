@@ -1,16 +1,17 @@
 # Recipes I Dig
 Collection of recipes I've fallen in love with over the years.
 
-All recipes are vegetarian or vegan.
-
-## Common Allergens
+## Common Restrictions
 The following information is called out in each recipe:
 
 * dairy
 * eggs
 * nuts
+* seeds
 * wheat gluten
 * added sugar
+* meat
+* seafood
 
 In many cases, allergen-free ingredients can be substituted (such as butter vs vegan butter, wheat flour vs. gluten free flour, etc.).
 
