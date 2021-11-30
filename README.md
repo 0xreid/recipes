@@ -21,17 +21,12 @@ You can use `grep` to search through recipes on the command line (using a Termin
 To find recipes that contain `dairy`:
 
 ```
-grep -l 'dairy' *
+grep -l -i 'dairy' *
 ```
 
 To find recipes that do not contain `dairy`:
 
 ```
-grep -l -v 'dairy' *
+grep -l -i -v 'dairy' *
 ```
 
-To find recipes that are vegan (no eggs, no dairy):
-
-```
-egrep -w -l -v 'dairy|eggs' *
-```
