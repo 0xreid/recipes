@@ -6,18 +6,19 @@
 * meat
 
 ## Ingredients
-* 3 chicken thighs (bone in, skin on)
-* 1 can fire roasted diced tomatoes
+* 5-6 chicken thighs (bone in, skin on)
+* 2 cans fire roasted diced tomatoes
 * 1 can mild diced green chilis
-* 1 can hominy
-* 1 can black beans
-* 1/2 yellow onion, diced
+* 1 can hominy, drained
+* 1 can black beans, drained
+* 1 yellow onion, chopped
 * 2-3 cloves of garlic
 * olive oil
 * 3-4 cups chicken broth
 * salt
 * cumin
 * smoked paprika
+* chipotle chili (ground)
 * fresh lime
 
 Serving ingredients:
@@ -29,7 +30,7 @@ Serving ingredients:
 ## Directions
 Sautee diced onion in olive oil. Once soft, add garlic and briefly cook.
 
-Add half of the chicken broth, chicken thighs, and canned ingredients. Add salt, cumin, smoked paprika, and fresh lime juice. Add more broth to desired level and stir ingredients.
+Add chicken thighs and canned ingredients. Add salt, spices, and fresh lime juice. Add broth to desired level and stir ingredients.
 
 Pressure cook for 25 minutes.
 
